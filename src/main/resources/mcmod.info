@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autorunmod",
+  "name": "AutoRun Mod",
+  "description": "Adds an auto-run toggle key binding",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["glorywold"],
+  "credits": "checkersbunny for getting me modding",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

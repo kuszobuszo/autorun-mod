@@ -16,7 +16,7 @@ public class Main {
 	// Tell Forge what instance to use.
 	public static Main instance;
 	
-	@SidedProxy(clientSide="net.teammeyer.mymod.ClientProxy",serverSide="net.teammeyer.mymod.CommonProxy",modId=Main.MODID)
+	@SidedProxy(clientSide="glorywold.autorun.ClientProxy",serverSide="glorywold.autorun.CommonProxy",modId=Main.MODID)
 	public static CommonProxy proxy;
 
 	@EventHandler

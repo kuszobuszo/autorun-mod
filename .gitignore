@@ -2,3 +2,7 @@
 bin
 build
 eclipse
+config/
+crash-reports/
+logs/
+options.txt
